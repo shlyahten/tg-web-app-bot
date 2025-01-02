@@ -18,7 +18,7 @@ The Web App must be hosted somewhere. Hosting it on a GitHub repository is a qui
 2. On the repository: Settings –> Pages:
     - Source: Deploy from a branch
     - Branch: master, / (root), Save
-3. Wait a few minutes for the web to be deployed. It will be available at: `https://{github-username}.github.io/{repository-name}/{location-inside-repository}`. In this case: `https://revenkroz.github.io/telegram-web-app-bot-example/index.html`
+3. Wait a few minutes for the web to be deployed. It will be available at: `https://{github-username}.github.io/{repository-name}/{location-inside-repository}`. In this case: `https://shlyahten.github.io/tg-web-app-bot/index.html`
 
 #### 1. Show the user a button to open a Web App. There are two ways:
 
